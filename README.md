@@ -1,2 +1,2 @@
-# RA3
-MICCAI 2025
+# ROI & Interval-Adaptive Adversarial Attack (RIA^3)
+Official code repository of "Adaptive Adversarial Data Augmentation with Trajectory Constraint for Alzheimer’s Disease Conversion Prediction" published at MICCAI 2025 (early accepted).
