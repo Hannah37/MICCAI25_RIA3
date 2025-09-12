@@ -1,5 +1,6 @@
 # ROI & Interval-Adaptive Adversarial Attack (RIA^3)
 Official code repository of "Adaptive Adversarial Data Augmentation with Trajectory Constraint for Alzheimer’s Disease Conversion Prediction" published at MICCAI 2025 (early accepted).
+The open review and the paper can be found [here](https://papers.miccai.org/miccai-2025/0045-Paper2850.html).
 
 ## Contribution 
 1) We propose a novel end-to-end framework for synthesizing small-sized pMCI data and predicting 
@@ -26,11 +27,16 @@ python main.py
 If you would like to cite our paper, please use the BibTeX below.
 
 ```
-@inproceedings{choconditional,
-  title={Adaptive Adversarial Data Augmentation with Trajectory Constraint for Alzheimer’s Disease Conversion Prediction},
-  author={Cho, Hyuna and Ahn, Hayoung and Wu, Guorong and Kim, Won Hwa},
-  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  year={2025}
+@InProceedings{ChoHyu_Adaptive_MICCAI2025,
+        author = { Cho, Hyuna and Ahn, Hayoung and Wu, Guorong and Kim, Won Hwa},
+        title = { { Adaptive Adversarial Data Augmentation with Trajectory Constraint for Alzheimer’s Disease Conversion Prediction } },
+        booktitle = {proceedings of Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025},
+        year = {2025},
+        publisher = {Springer Nature Switzerland},
+        volume = {LNCS 15966},
+        month = {September},
+        page = {13 -- 23}
+}
 }
 ```
 
