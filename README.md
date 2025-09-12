@@ -37,6 +37,5 @@ If you would like to cite our paper, please use the BibTeX below.
         month = {September},
         page = {13 -- 23}
 }
-}
 ```
 
